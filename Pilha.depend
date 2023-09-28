@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695867638 source:d:\c\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
